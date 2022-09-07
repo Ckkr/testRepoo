@@ -12,7 +12,8 @@ def hatemFunc():
   lastName=Null
   return firstName+lastName
 def abdullahFunc():
-  firstName=Null
-  lastName=Null
+  firstName='abdullah'
+  lastName='alsuwailem'
   return firstName+lastName
 print(mazenFunc())
+print(abdullahFunc())
