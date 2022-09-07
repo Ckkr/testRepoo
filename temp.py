@@ -4,11 +4,11 @@ def mazenFunc():
   return firstName+lastName
 #please fill the variables  
 def fahadFunc():
-  firstName=Null
-  lastName=Null
+  firstName='fahad'
+  lastName="K"
   return firstName+lastName
 def hatemFunc():
-  firstName=Null
+  firstName=Null #Deal with this. 
   lastName=Null
   return firstName+lastName
 def abdullahFunc():
@@ -17,3 +17,4 @@ def abdullahFunc():
   return firstName+lastName
 print(mazenFunc())
 print(abdullahFunc())
+print(fahadFunc())
