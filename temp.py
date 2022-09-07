@@ -8,7 +8,7 @@ def fahadFunc():
   lastName="K"
   return firstName+lastName
 def hatemFunc():
-  firstName=Null #Deal with this. 
+  firstName=Null #Deal with this. !
   lastName=Null
   return firstName+lastName
 def abdullahFunc():
