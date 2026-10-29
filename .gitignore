@@ -1,0 +1,5 @@
+# Aufuq website dependencies and production output
+aufuq/node_modules/
+aufuq/dist/
+*.local
+.DS_Store
